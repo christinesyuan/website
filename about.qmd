@@ -11,9 +11,9 @@ about:
       href: https://github.com/christinesyuan
     - text: Linkedin
       href: "https://www.linkedin.com/in/christinesyuan/"
-    - text: Resume
-      href: "resumewebsite.pdf"
 toc: false
 ---
 
 I am a fourth-year Statistics and Data Science undergraduate student at the University of California, Los Angeles (UCLA). I am currently interning at [Beta Hat Market Research](/https://www.betahatmr.com/).
+
+You can download my resume [here](resumewebsite.pdf)!
