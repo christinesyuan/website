@@ -1,6 +1,7 @@
 ---
 title: "Datafest 2025"
 about:
+  template: solana
   image: dfimage.jpeg
 ---
 

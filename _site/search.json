@@ -1,30 +1,30 @@
 [
   {
-    "objectID": "projects.html#twitch-chat-statistics",
-    "href": "projects.html#twitch-chat-statistics",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Twitch Chat Statistics",
-    "text": "Twitch Chat Statistics"
+    "section": "",
+    "text": "Datafest 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIs Millionaire’s Race a Scam?\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects.html#is-millionares-race-a-scam",
-    "href": "projects.html#is-millionares-race-a-scam",
-    "title": "Projects",
-    "section": "Is Millionare’s Race a Scam?",
-    "text": "Is Millionare’s Race a Scam?"
+    "objectID": "gridproject/datafest.html",
+    "href": "gridproject/datafest.html",
+    "title": "Datafest 2025",
+    "section": "",
+    "text": "I participated in the 2025 UCLA Datafest, hosted by the American Statistical Association, with a team comprising of Rohan Bodla, Jordan Kikuta, Celine Nugroho, Ethan Xiao, and myself. The provided data set consisted of commercial leasing data within the past decade, and we were tasked with finding trends within the data. My team decided to narrow in on the LA submarket.\nLA’s top 3 industries are tech, legal, and finance. Our findings revealed that tech companies prefer larger spaces and proximity to the central business district (CBD). Legal and finance companies look for smaller spaces, but prefer the best quality. Finance companies prefer suburban areas, while legal companies prefer being close to the city. Finance companies also have a higher rate of subletting.\nWe are grateful to have received the Don Ylvisaker Best Insight award."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Christine Yuan",
     "section": "",
-    "text": "Download my [resume]!(/resumewebsite.pdf)"
+    "text": "I am a fourth-year Statistics and Data Science undergraduate student at the University of California, Los Angeles (UCLA). I am also currently interning for Beta Hat Market Research.\nDownload my resume!"
   },
   {
-    "objectID": "additional.html",
-    "href": "additional.html",
-    "title": "About",
+    "objectID": "gridproject/race.html",
+    "href": "gridproject/race.html",
+    "title": "Is Millionaire’s Race a Scam?",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "“Millionaire’s Race” was a Roblox minigame where a player is shown two doors: proceed with a reward, or take the 5% chance of leaving without anything. The 5% chance would increase by 5% every door until it reached 50. The grand prize could be achieved by passing 20 doors. I was curious if the probability shown was fake or real.\nThis project was not about the cumulative probability of success at each room, which several other users had posted. The cumulative probability of success can be phrased as, “What is the probability we succeed this room AND have succeeded all rooms prior?” This is done by choosing a room and multiplying all the success probabilities before the chosen room and the current room’s success probability. Room 3, for example: 0.95 * 0.90 * 0.85 = 0.72675.\nInstead, I calculated the distribution of failures, which can be phrased as, “What is the probability we succeed all prior rooms, but fail at this one?” This isn’t the opposite of the cumulative probability of success. Using our Room 3 example, there’s around a 73% chance of getting past this room, but which room you ultimately fail at is uncertain. The distribution of failures fixes this problem by giving a definitive end to each scenario, creating a distribution.\nTo calculate these probabilities, you take the success probability of the room prior to your final room, then multiply the failure probability to it. For failure at Room 4: 0.72675 (you get past Room 3) * 0.20 = 0.14535. Since all possibilities are accounted for in our distribution, we can say that 14.535% of all runs will end at Room 4. Important note: this entire distribution is based on if the player “risks it” until failure.\n\n\n\nCumulative Distribution of Room Failure\n\n\nThe most common rooms to fail at are Room 4 and 5. Approximately 0.1% of all runs will make it past Room 15. Unwritten is the probability of making it to Room 20, which is the same as failing at 19. Room 19 is the final room in our table because I assume there is no pass/fail in Room 20.\nI “risked it” to failure for 41 runs, taking note of which room I failed at.\n\n\n\nComparing Observed and Expected Failures\n\n\nI ran a chi-squared goodness of fit test comparing our observed values to our expected values. We ended up with a chi-squared value of 7.5521. Using 40 degrees of freedom (41 - 1), our ultimate p-value is… 1.\nMeaning, it is extremely likely for my 41 observed values to happen under the probabilities given, and we were very, very far off of proving it wrong. Specifically, we needed a chi-squared value of close to 56, or a p-value of 0.05 or under. The samples needed to be way more extreme. Millionaire Race is not a scam."
   }
 ]

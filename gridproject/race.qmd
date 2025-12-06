@@ -2,6 +2,7 @@
 title: "Is Millionaire's Race a Scam?"
 subtitle: "An Exploration of In-game Probability"
 about:
+  template: solana
   image: mr1.jpeg
 ---
 

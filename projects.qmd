@@ -1,9 +1,9 @@
 ---
 title: "Projects"
-listing: default
-  - id: project-listing
+listing:
+  id: project-listing
   contents: 
-    - "/gridproject/*.qmd"
+    - "gridproject/*.qmd"
   type: grid
 ---
 
