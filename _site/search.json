@@ -18,6 +18,6 @@
     "href": "index.html",
     "title": "Christine Yuan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.2937605 0.1715511 0.1057497 0.3234535 0.4283618 0.1773778 0.6967949\n [8] 0.3156076 0.1694719 0.6613399"
   }
 ]
