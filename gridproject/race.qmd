@@ -3,7 +3,7 @@ title: "Is Millionaire's Race a Scam?"
 subtitle: "An Exploration of In-game Probability"
 about:
   template: solana
-  image: mr1.jpng
+  image: mr1.png
 ---
 
 "Millionaire's Race" was a Roblox minigame where a player is shown two doors: proceed with a reward, or take the 5% chance of leaving without anything. The 5% chance would increase by 5% every door until it reached 50. The grand prize could be achieved by passing 20 doors. I was curious if the probability shown was fake or real. 
