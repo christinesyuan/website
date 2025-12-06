@@ -1,6 +1,6 @@
 ---
 title: "Christine Yuan"
-subtitle: "Email: christinesyuan@gmail.com"
+text: "Email: christinesyuan@gmail.com"
 about:
   template: trestles
   image: pfp.jpeg
@@ -15,5 +15,6 @@ about:
 toc: false
 ---
 
-Download my [resume]!(/resumewebsite.pdf)
+I am a fourth-year Statistics and Data Science undergraduate student at the University of California, Los Angeles (UCLA). I am also currently interning for [Beta Hat Market Research](/https://www.betahatmr.com/).
 
+Download my [resume](/resumewebsite.pdf)!

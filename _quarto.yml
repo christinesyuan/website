@@ -9,8 +9,6 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
-      - href: additional.qmd
-        text: Additional
 
   page-footer:
     right: "&copy; 2025, Christine Yuan"

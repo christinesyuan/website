@@ -1,9 +1,11 @@
 ---
 title: "Projects"
+listing: default
+  - id: project-listing
+  contents: 
+    - "/gridproject/*.qmd"
+  type: grid
 ---
 
-## Datafest 2025
-
-## Twitch Chat Statistics
-
-## Is Millionare's Race a Scam? 
+:::project-listing
+:::
