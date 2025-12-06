@@ -1,10 +1,11 @@
 ---
 title: "Christine Yuan"
-text: "Email: christinesyuan@gmail.com"
 about:
   template: trestles
   image: pfp.jpeg
   links: 
+    - text: "Email"
+      href: "mailto:christinesyuan@gmail.com"
     - icon: github
       text: Github
       href: https://github.com/christinesyuan
