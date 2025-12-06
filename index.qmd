@@ -8,11 +8,11 @@ about:
       text: Github
       href: https://github.com/christinesyuan
     - text: Linkedin
-      link: "https://www.linkedin.com/in/christinesyuan/"
-    - text: email
-      link: "christinesyuan@gmail.com"
+      href: "https://www.linkedin.com/in/christinesyuan/"
+    - text: Email
+      href: "christinesyuan@gmail.com"
     - text: Resume
-      link: resumewebsite.pdf
+      href: "resumewebsite.pdf"
 toc: false
 ---
 test
