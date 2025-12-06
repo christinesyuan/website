@@ -1,14 +1,18 @@
 ---
 title: "Christine Yuan"
+about:
+  template: trestles
+  image: pfp.jpeg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/christinesyuan
+    - text: Linkedin
+      link: "https://www.linkedin.com/in/christinesyuan/"
+    - text: email
+      link: "christinesyuan@gmail.com"
+    - text: Resume
+      link: resumewebsite.pdf
+toc: false
 ---
-
-```{r}
-1 + 1
-```
-
-
-
-```{r}
-runif(10)
-```
-
+test
