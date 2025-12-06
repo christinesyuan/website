@@ -1,9 +1,19 @@
 ---
-title: "About"
+title: "Christine Yuan"
+subtitle: "Email: christinesyuan@gmail.com"
+about:
+  template: trestles
+  image: pfp.jpeg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/christinesyuan
+    - text: Linkedin
+      href: "https://www.linkedin.com/in/christinesyuan/"
+    - text: Resume
+      href: "resumewebsite.pdf"
+toc: false
 ---
 
-About this site
+Download my [resume]!(/resumewebsite.pdf)
 
-```{r}
-1 + 1
-```

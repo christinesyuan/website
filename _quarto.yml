@@ -5,11 +5,16 @@ website:
   title: ""
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - Test.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: additional.qmd
+        text: Additional
 
+  page-footer:
+    right: "&copy; 2025, Christine Yuan"
+  
 format:
   html:
     theme:

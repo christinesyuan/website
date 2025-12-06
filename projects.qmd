@@ -1,6 +1,9 @@
 ---
 title: "Projects"
-format: html
 ---
 
-hiiiiii
+## Datafest 2025
+
+## Twitch Chat Statistics
+
+## Is Millionare's Race a Scam? 

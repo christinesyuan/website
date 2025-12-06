@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "projects.html#twitch-chat-statistics",
+    "href": "projects.html#twitch-chat-statistics",
     "title": "Projects",
-    "section": "",
-    "text": "hiiiiii"
+    "section": "Twitch Chat Statistics",
+    "text": "Twitch Chat Statistics"
+  },
+  {
+    "objectID": "projects.html#is-millionares-race-a-scam",
+    "href": "projects.html#is-millionares-race-a-scam",
+    "title": "Projects",
+    "section": "Is Millionare’s Race a Scam?",
+    "text": "Is Millionare’s Race a Scam?"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "Christine Yuan",
+    "section": "",
+    "text": "Download my [resume]!(/resumewebsite.pdf)"
+  },
+  {
+    "objectID": "additional.html",
+    "href": "additional.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Christine Yuan",
-    "section": "",
-    "text": "test"
   }
 ]
